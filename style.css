@@ -1,0 +1,95 @@
+div {
+    
+    width:100%;
+    display: inline;
+    padding:0;
+    
+}
+
+.logo {
+    padding: 0%;
+    width: 15% ;
+    display: inline;
+}
+
+.menu {
+       display: inline;
+       position: relative;
+       left: 40%;
+       bottom: 75px;
+       right: 20px;
+       font-size:  30px;
+       font-weight:bold;
+}
+.lista {
+    display: inline;
+    position: relative;
+    padding: 5px;
+    font-style: italic;
+}
+.banner {
+    width: 100%;
+    height: 500px;
+}
+.chamada {
+    color:red;
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+}
+.stylos {
+    color: red;
+    text-align: center;
+    padding: 10px;
+font-style:oblique;
+}
+.empresario {
+    width: 600px;
+    padding: 10px;
+}
+.degrader {
+    padding: 10px;
+}
+.extras {
+    padding: 0px;
+    margin: 10px;
+    color: red;
+    text-align: center;
+    font-style: oblique;
+}
+
+.img {
+    width: 100px;  
+    padding: 66px;
+
+   
+}
+.barba {
+    width: 100px;
+    padding: 60px;
+    margin: 70px;
+}
+.bigode {  
+    width: 100px;
+    padding: 50px;
+    margin: 50px;
+    left: 20px;
+
+}
+.cabelo { 
+    width: 100px;
+    padding: 100px;
+    margin: 50px;;
+}
+.utencilios {
+    padding: 50px;
+    position: relative;
+    bottom: 300px;
+}
+.logotipo {
+    position: relative;
+    padding: 100px;
+    margin: 50px;
+    bottom: 650px;    
+    
+}
